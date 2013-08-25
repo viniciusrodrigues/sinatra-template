@@ -1,5 +1,6 @@
 *.swp
 *.log
 *.tmp
+*cache
 .DS_Store
 Gemfile.lock
